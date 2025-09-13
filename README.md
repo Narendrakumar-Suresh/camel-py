@@ -1,4 +1,4 @@
-# 🐪 Camel-ollama
+# 🐪 Camel-py
 
 A lightweight Python client for [Ollama](https://ollama.ai/) that makes it easy to:
 
